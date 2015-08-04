@@ -1,0 +1,5 @@
+A simple Python Script to show notification of weather update.
+
+Version 0.1
+* Fetch Weather using openweathermap APIs
+* Default location Delhi
